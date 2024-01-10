@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node16",
+    "target": "es2022",
+    "module": "Node16",
+    "strict": true,
+    "types": [
+      "node",
+      "@sapui5/types",
+      "@wdio/globals/types",
+      "expect-webdriverio",
+      "@wdio/mocha-framework",
+      "wdio-ui5-service"
+    ],
+    "skipLibCheck": true
+  }
+}
